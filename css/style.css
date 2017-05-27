@@ -1,0 +1,62 @@
+.grid {
+    display: grid;
+    grid-template-columns: 750px 355px ;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.grid div {
+    margin: 5px;
+    background: #fff;
+}
+    h1 {
+font-family: 'Rasa', serif;
+font-size: 54px;
+line-height: 100%;
+color: #000000;
+opacity: 1.00;
+font-weight: 400;
+
+    }
+
+ span{
+
+    	text-decoration: underline;
+    	font-weight: 600;
+    }
+
+a{
+	background: #7BACED;
+opacity: 1.00;
+border-radius: 50px;
+text-decoration: none;
+padding:12px 26px ;
+position: relative;
+background: #7BACED;
+opacity: 1.00;
+box-shadow: 0px 4px 0px #4F7EBD;
+border-radius: 50px;
+
+}
+
+a {
+	color: #333;
+	transition: all .3s ease;
+}
+
+a:hover {
+ text-decoration: underline;
+  color: #fff;
+}
+
+.hov {
+	padding-top: 20px;
+	transition: filter .3s ease-in-out;
+	
+}
+
+.hov:hover {
+	filter: brightness(.8);
+}
+.text{
+
+}
